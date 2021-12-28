@@ -6,7 +6,7 @@
 
 /*Модификаторы logo*/
 @import url('/blocks/header/logo/_place/logo_place_header.css');
-@import url('./blocks/header/logo/_place/logo_place_footer.css');
+@import url('/blocks/header/logo/_place/logo_place_footer.css');
 
 /*Элементы header*/
 @import url('/blocks/header/__title/header__title.css');
