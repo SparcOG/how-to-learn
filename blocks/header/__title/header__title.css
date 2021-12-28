@@ -6,4 +6,6 @@
   font-weight: bold;
   position: absolute;
   left: 64px;
+  margin: 0;
+  padding: 0;
 }
