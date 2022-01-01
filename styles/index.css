@@ -27,10 +27,6 @@
 /*Блок rotation*/
 @import url('../blocks/rotation/rotation.css');
 
-/*Элементы rotation*/
-@import url('../blocks/rotation/__rotation-square/rotation__rotation-square.css');
-@import url('../blocks/rotation/__rotation-triagle/rotation__rotation-triagle.css');
-
 
 /*----------------------------------------------------------*/
 /*Основной блок description*/
@@ -121,6 +117,9 @@
 /*----------------------------------------------------------*/
 /*Блок kaufman*/
 @import url('../blocks/kaufman/kaufman.css');
+
+/*Элемент kaufman*/
+@import url('../blocks/kaufman/__triagle/kaufman__triagle.css');
 
 
 /*----------------------------------------------------------*/
