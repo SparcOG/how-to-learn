@@ -3,4 +3,9 @@
   width: 270px;
   display: flex;
   justify-content: center;
+  transition: opacity .3s linear;
+}
+
+.resources_logo:hover {
+  opacity: 0.6;
 }

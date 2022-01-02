@@ -6,6 +6,6 @@
   width: 100%;
   padding: 90px 0 90px 0;
   z-index: 1;
-  overflow: hidden;
   position: relative;
+  overflow: hidden;
 }
