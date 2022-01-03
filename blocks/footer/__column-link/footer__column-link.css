@@ -1,18 +1,18 @@
 .footer__column-link {
-  display: flex;
-  color: #f2f2f2;
   margin: 0 0 10px 0;
   text-decoration: none;
   line-height: 18px;
   font-size: 18px;
   font-weight: normal;
+  color: #f2f2f2;
   transition: opacity .3s linear;
-}
 
-.footer__column-link:nth-of-type(3) {
+  }
+  
+  .footer__column-link:nth-of-type(3) {
   margin: 0;
- }
-
- .footer__column-link:hover {
+}
+  
+   .footer__column-link:hover {
   opacity: 0.6;
- }
+}
